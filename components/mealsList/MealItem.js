@@ -6,7 +6,7 @@ import {
   View,
   Platform,
 } from "react-native";
-import MealDetails from "./MealDeatails";
+import MealDetails from "../MealDeatails";
 
 function MealItem({
   title,
